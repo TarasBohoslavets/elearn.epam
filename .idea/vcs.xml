@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/average" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/cycle-swap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/electronic-watch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/go-dutch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/local-maxima-remove" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/max" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/max-in-seq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/meet-a-stranger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/meet-an-agent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/meet-autocode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/meet-strangers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/multiply-matrices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/pizza-split" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/quadratic-equation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/snail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/spiral" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/sum-of-even-numbers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/sum-of-previous" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_basic/transpose-matrix" vcs="Git" />
+  </component>
+</project>
